@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FullyChargedNotifier</string>
+    <string name="fully_charged">Teljesen feltöltve</string>
+    <string name="fully_charged_text">Akku 100%-ig feltöltve. Kihúzhatja a töltőt.</string>
+</resources>

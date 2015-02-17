@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FullyChargedNotifier</string>
+    <string name="fully_charged">Fully charged</string>
+    <string name="fully_charged_text">Battery fully charged. You can remove the plug.</string>
+</resources>
